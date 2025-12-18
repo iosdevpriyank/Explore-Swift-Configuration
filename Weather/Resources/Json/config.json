@@ -1,0 +1,26 @@
+//
+//  config.json
+//  Weather
+//
+//  Created by Akshat Gandhi on 15/12/25.
+//
+
+{
+    "api": {
+        "baseURL": "https://api.weatherapp.com",
+        "timeout": 30,
+        "retries": 3
+    },
+    "cache": {
+        "enabled": true,
+        "duration": 3600
+    },
+    "ui": {
+        "animationDuration": 0.3,
+        "refreshInterval": 300
+    },
+    "locations": {
+        "max": 5,
+        "default": "London"
+    }
+}

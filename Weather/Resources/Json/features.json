@@ -1,0 +1,9 @@
+{
+    "feature": {
+        "metric": true,
+        "darkMode": true,
+        "premium": false,
+        "notifications": false,
+        "widgets": true
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "api": {
+        "baseURL": "https://dev-api.weatherapp.com",
+        "timeout": 60
+    },
+    "debug": {
+        "logging": true,
+        "showNetworkCalls": true
+    },
+    "feature": {
+        "premium": true
+    },
+    "locations": {
+        "max": 100
+    }
+}
