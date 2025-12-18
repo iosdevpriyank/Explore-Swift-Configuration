@@ -1,4 +1,4 @@
-# Swift Configuration Library - Complete Guide
+# Swift Configuration Library - (Exploring)
 
 [![Swift 6.0+](https://img.shields.io/badge/Swift-6.0+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://developer.apple.com)
